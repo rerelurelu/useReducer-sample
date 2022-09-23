@@ -1,5 +1,11 @@
+import { Post } from './Post';
+
 function App() {
-  return <div></div>;
+  return (
+    <>
+      <Post />
+    </>
+  );
 }
 
 export default App;
